@@ -1,0 +1,58 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{feynmf}
+\usepackage{cite}
+
+\title{PAP331 - 1}
+\author{Matteo Murdaca}
+\date{January 2024}
+
+\begin{document}
+
+\maketitle
+
+\section*{Feynman graphs}
+\vspace{1.5em}
+\begin{fmffile}{diagram}
+\begin{center}
+\parbox{60mm}{
+\begin{fmfgraph*}(120,80)
+\fmfleft{i1,i2}
+\fmfright{o1,o2}
+\fmf{fermion,tension=2}{i1,v1}
+\fmf{fermion, tension=1.5}{v1,v2}
+\fmf{fermion, tension=1.3}{v2,i2}
+\fmf{photon, tension=2}{v2,o2}
+\fmf{photon, tension=0.9}{v1,o1}
+\fmfv{label=$e^-$}{i1}
+\fmfv{label=$\gamma$}{o1}
+\fmfv{label=$e^+$}{i2}
+\fmfv{label=$\gamma$}{o2}
+\end{fmfgraph*}
+}
+\parbox{60mm}{
+\begin{fmfgraph*}(120,80)
+\fmfleft{i1,i2}
+\fmfright{o1,o2}
+\fmf{fermion, tension=1.3}{i1,v1}
+\fmf{fermion, tension=1.5}{v1,v2}
+\fmf{fermion, tension=2}{v2,i2}
+\fmf{photon, tension=0.9}{v2,o2}
+\fmf{photon, tension=2}{v1,o1}
+\fmfv{label=$e^-$}{i1}
+\fmfv{label=$\gamma$}{o1}
+\fmfv{label=$e^+$}{i2}
+\fmfv{label=$\gamma$}{o2}
+\end{fmfgraph*}
+}
+
+\end{center}
+\end{fmffile}
+\vspace{1.5em}
+Figure 1: Feynman graphs for the lowest order contributions to electron-positron annihilation \cite{MartinShaw}
+
+\bibliography{Ex1}{}
+\bibliographystyle{plain}
+
+
+\end{document}

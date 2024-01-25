@@ -1,0 +1,6 @@
+% diagram.t2 -- generated automatically from diagram.log
+% Think twice before editing THIS file!
+\fmfL(7.39142,-3.84119,rt){$e^-$}
+\fmfL(7.39142,83.84119,rb){$e^+$}
+\fmfL(112.60858,-3.84119,lt){$\gamma $}
+\fmfL(112.60858,83.84119,lb){$\gamma $}
