@@ -1,0 +1,3 @@
+# Ignore Pythia build artifacts and directories
+pythia8311
+pythia8311.tgz

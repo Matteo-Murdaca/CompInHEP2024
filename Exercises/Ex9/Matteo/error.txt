@@ -1,0 +1,270 @@
+PYTHIA Error: input string not found in settings databases::
+   PREFIX_BIN=~/pythia8311/bin
+
+ PYTHIA Error: input string not found in settings databases::
+   PREFIX_INCLUDE=~/pythia8311/include
+
+ PYTHIA Error: input string not found in settings databases::
+   PREFIX_LIB=~/pythia8311/lib
+
+ PYTHIA Error: input string not found in settings databases::
+   PREFIX_SHARE=~/pythia8311/share/Pythia8
+
+ PYTHIA Error: input string not found in settings databases::
+   CXX=g++
+
+ PYTHIA Error: input string not found in settings databases::
+   CXX_COMMON=-O2 -std=c++11 -pedantic -W -Wall -Wshadow -fPIC -pthread
+
+ PYTHIA Error: input string not found in settings databases::
+   CXX_SHARED=-shared
+
+ PYTHIA Error: input string not found in settings databases::
+   CXX_SONAME=-Wl,-soname,
+
+ PYTHIA Error: input string not found in settings databases::
+   LIB_SUFFIX=.so
+
+ PYTHIA Error: input string not found in settings databases::
+   OBJ_COMMON=
+
+ PYTHIA Error: input string not found in settings databases::
+   EVTGEN_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   EVTGEN_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   EVTGEN_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   EVTGEN_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   EVTGEN_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   FASTJET3_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   FASTJET3_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   FASTJET3_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   FASTJET3_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   FASTJET3_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   HEPMC2_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   HEPMC2_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   HEPMC2_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   HEPMC2_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   HEPMC2_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   HEPMC3_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   HEPMC3_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   HEPMC3_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   HEPMC3_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   HEPMC3_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   LHAPDF5_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   LHAPDF5_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   LHAPDF5_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   LHAPDF5_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   LHAPDF5_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   LHAPDF6_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   LHAPDF6_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   LHAPDF6_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   LHAPDF6_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   LHAPDF6_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   POWHEG_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   POWHEG_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   POWHEG_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   POWHEG_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   POWHEG_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   RIVET_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   RIVET_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   RIVET_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   RIVET_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   RIVET_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   ROOT_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   ROOT_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   ROOT_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   ROOT_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   ROOT_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   GZIP_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   GZIP_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   GZIP_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   GZIP_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   GZIP_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   PYTHON_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   PYTHON_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   PYTHON_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   PYTHON_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   PYTHON_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   MG5MES_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   MG5MES_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   MG5MES_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   MG5MES_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   MG5MES_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   OPENMP_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   OPENMP_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   OPENMP_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   OPENMP_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   OPENMP_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   MPICH_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   MPICH_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   MPICH_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   MPICH_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   MPICH_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   HDF5_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   HDF5_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   HDF5_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   HDF5_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   HDF5_LIB=
+
+ PYTHIA Error: input string not found in settings databases::
+   HIGHFIVE_USE=false
+
+ PYTHIA Error: input string not found in settings databases::
+   HIGHFIVE_CONFIG=
+
+ PYTHIA Error: input string not found in settings databases::
+   HIGHFIVE_BIN=
+
+ PYTHIA Error: input string not found in settings databases::
+   HIGHFIVE_INCLUDE=
+
+ PYTHIA Error: input string not found in settings databases::
+   HIGHFIVE_LIB=
+Pythia initialization failed. Aborting.
